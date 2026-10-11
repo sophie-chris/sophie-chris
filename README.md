@@ -21,7 +21,7 @@
   Hi, I’m Sophie.
   <br><br>
   I’m powered by coffee and occasionally defeated by semicolons.
-  <br><br><br><br>
+  <br><br>
   I’m an AI Specialist and have worked in AI quality for the past few years, focusing on LLM evaluation, data quality and compliance.
   <br><br>
   I’m currently pursuing an MSc in Enterprise Software Systems Development to deepen my understanding of how software systems work.
